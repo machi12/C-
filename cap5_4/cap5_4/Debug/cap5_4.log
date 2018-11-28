@@ -1,0 +1,4 @@
+﻿  test.cpp
+d:\pro\c-pro\cap5_4\cap5_4\test.cpp(34): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  cap5_4.vcxproj -> D:\pro\c-pro\cap5_4\Debug\cap5_4.exe
+  cap5_4.vcxproj -> D:\pro\c-pro\cap5_4\Debug\cap5_4.pdb (Partial PDB)
